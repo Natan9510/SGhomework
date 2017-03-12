@@ -6,5 +6,3 @@ class Link < Document
     puts hrefs
   end
 end
-#link = Link.new
-#puts link.parse

@@ -1,6 +1,3 @@
-# require 'nokogiri'
-# require 'open-uri'
-
 class Document
   @doc
   def parse

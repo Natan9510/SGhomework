@@ -5,5 +5,3 @@ class Header < Document
     puts headers
   end
 end
-# header = Header.new
-# puts header.parse
